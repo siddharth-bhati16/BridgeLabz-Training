@@ -1,0 +1,12 @@
+import java.util.*;
+public class CelciusToFahrenheitConverter
+{
+	public static void main(String[] args)
+	{
+		Scanner sc= new Scanner(System.in);
+		System.out.println("Enter the temperature in Celcius");
+		double Celcius= sc.nextDouble();
+		double Farhenheit= (Celcius * 9/5) + 32;
+		System.out.println(Farhenheit);
+	}
+}
