@@ -1,0 +1,28 @@
+import java.util.*;
+public class FactorialCheck
+{
+	public static void main(String args[])
+	{
+		//creating object of scanner
+		Scanner sc= new Scanner(System.in);
+		
+		//asking for input
+		System.out.println("Enter the number");
+		int number = sc.nextInt();
+		
+		//checking if the number is a positive integer
+		if(number > 0)
+		{	
+			//finding factorial
+			int factorial = 1;
+			while(number >0)
+			{
+			factorial = factorial * number;
+			number--;
+			}
+			
+			//display output
+			System.out.println("The factorial is " + factorial);
+		}
+	}
+}
