@@ -9,6 +9,8 @@ public class MetroSmartCard
     public MetroSmartCard(int balance) 
 	{
         this.balance = balance;
+		
+		
     }
 
     public void travel()
