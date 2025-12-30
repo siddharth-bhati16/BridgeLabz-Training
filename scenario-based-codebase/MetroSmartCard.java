@@ -1,43 +1,66 @@
+
+
 import java.util.Scanner;
 
-public class MetroSmartCard {
-    public static void main(String[] args) {
+public class MetroSmartCard 
+{
+    private double balance;
+
+    public MetroSmartCard(int balance) 
+	{
+        this.balance = balance;
+    }
+
+    public void travel()
+	{
         Scanner sc = new Scanner(System.in);
-        double balance = 100.0; 
-        
-        System.out.println(" Welcome to Delhi Metro ");
-        
-        // Loop until balance is exhausted or user quits
-        while (balance > 0) {
-            System.out.println("Current Balance" + balance);
-            System.out.print("Enter distance in km (or enter -1 to quit): ");
+        System.out.println("Welcome to Bhopal Metro.");
+
+        while(true)
+		{
+            if (balance < 11) 
+			{
+                System.out.println("Cannot travel. Balance too low");
+                break;
+            }
+
+            System.out.printf("Current Balance is %.2f%n",balance);
+            System.out.println("For platform ticket enter 0.");
+            System.out.print("Enter distance in km for your ride (-1 to exit): ");
             double distance = sc.nextDouble();
 
-            // Check for quit condition
-            if (distance == -1) {
-                System.out.println("Exiting... Have a nice day!");
+            if (distance < 0) 
+			{
+                System.out.println("Program Exited");
                 break;
             }
 
-            // Fare calculation using Ternary Operator
-            // If distance <= 10km, fare is 20, else fare is 40
-            double fare = (distance <= 10) ? 20.0 : 40.0;
-
-            // Check for sufficient balance and deduct
-            if (balance >= fare) {
-                balance -= fare;
-                System.out.println("Fare Deducted" + fare);
-                System.out.println("Remaining Balance" + balance);
-            } else {
-                System.out.println("Insufficient balance for this journey. Please recharge!");
-                break;
+            double fare = getFare(distance);
+            if (fare > balance) 
+			{
+                System.out.println(fare);
+                System.out.printf(
+                        "Not enough balance to travel distance of %.2f km%n",
+                        distance
+                );
+                continue;
             }
 
-            // Stop loop if balance is zero
-            if (balance <= 0) {
-                System.out.println("Balance exhausted. Please recharge your card.");
-            }
+            balance -=fare;
+            System.out.printf("The fare for %.2f km is %.2f%n",distance,fare);
         }
-        input.close();
+    }
+
+    private double getFare(double distance) 
+	{
+        double fare = distance < 2 ? 11 : (distance < 5 ? 21 : (distance < 12 ? 32 : (distance < 21 ? 43 : (distance < 32 ? 54 : 64))));
+
+        return fare;
+    }
+    public static void main(String[] args) 
+	{
+        MetroSmartCard object = new MetroSmartCard(200);
+
+        object.travel();
     }
 }
