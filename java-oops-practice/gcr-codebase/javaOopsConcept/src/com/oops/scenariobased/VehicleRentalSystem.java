@@ -95,7 +95,7 @@ class Customer {
 }
 
 // Main Class
-public class VehicleRentalSystem {
+public class VehicleRentalApp {
     public static void main(String[] args) {
 
         Customer customer = new Customer("Rahul");
