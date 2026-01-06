@@ -35,3 +35,9 @@ Studied object modeling
 Studied design principles Solved programming questions and pushed codes to GitHub
 Code Link :https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/oops/objectmodeling/levelone
 Day4 Object modeling
+
+Day 5 Polymorphism
+Date: 2 jan 2026
+studied the key concept of polymorphism
+Code Link:https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/oops/polymorphism
+solved 7 question which includes various concept
