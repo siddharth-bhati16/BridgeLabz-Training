@@ -46,3 +46,12 @@
  [Link](https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/oops/polymorphism)
 
 ---
+### Day 6 – ScenarioBased 
+**(Date: 4-JAN-2026)**
+
+- Did many questions related to real-time
+- was difficule as well as intresting 
+
+ [Link](https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/oops/scenariobased)
+
+---
