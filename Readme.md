@@ -2,7 +2,7 @@
 
 This repository contains my learning journey as part of the BridgeLabz program.  
 
-### Day 16 – Implemented LinkedList (DSA)
+### Day 1 – Implemented LinkedList (DSA)
 **(Date: 2-Jan-2026)**
 
 - Did many of LinkedList (Singly, Doubly and Circular)
@@ -12,7 +12,7 @@ This repository contains my learning journey as part of the BridgeLabz program.
 
 ---
 
-### Day 17 – Questions on Hashmap, stack and queue (DSA)
+### Day 2 – Questions on Hashmap, stack and queue (DSA)
 **(Date: 3-Jan-2026)**
 
 - Did questions of Stacks, queues and hashmaps
