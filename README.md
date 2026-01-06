@@ -1,37 +1,48 @@
-Week 2 Object Oriented Programming
 
-Day 1 Object Oeirnted Programming Fundamental
-Date: 27 Dec 2025
 
-Studied fundamentals of objec oriented programming
-Solved programming questions based on object and classes
-Pushed the codes to GitHub
-Code link:https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/oops/classandobject
-Day 1: Class and objects
+### Day 1 – Object Oriented Programming Fundemental
+**(Date: 27-DEC-2025)**
 
-Day 2 Constructors, Instance and class variables, Access modifiers
-Date: 29 Dec 2025
+- started with the oops fundementals
+- Was quite difficult but somehow solved them
 
-Studied constructors
-studied about instance and class variables
-studied about access modifiers
-Studied the use of getter and setter
-Solved programming questions and pushed codes to GitHub
-Code Link :https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/oops/instanceofoperator
-Day 2: Constructor and Access Modifiers
+ [Link](:https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/oops/classandobject)
 
-Day 3 this, static, final key words and instanceof operator
-Date: 31 Dec 2025
+---
 
-Studied this, static, final key words and instanceof operator
-Solved programming questions and pushed codes to GitHub
-Code Link :https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/oops/instanceofoperator
-Day3 code
+### Day 2 – Constructors and Class Variables
+**(Date: 28-DEC-2026)**
 
-Day 4 Object oriented design principles
-Date: 31 Dec 2025
+- Did many questions from constructors and related to its types
+- Was quite difficult but somehow solved them
 
-Studied object modeling
-Studied design principles Solved programming questions and pushed codes to GitHub
-Code Link :https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/oops/objectmodeling/levelone
-Day4 Object modeling
+ [Link](https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/oops/instanceofoperator)
+
+---
+### Day 3 – Instance of Operators
+**(Date: 29-DEC-2026)**
+
+- Worked on complex question from constructor
+- Was quite difficult but somehow solved them
+
+ [Link](:https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/oops/instanceofoperator )
+
+---
+### Day 4 –Object Oriented Design Principle
+**(Date: 30-DEC-2026)**
+
+- Did many questions from design principle
+- Was quite difficult but somehow solved them
+
+ [Link](https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/oops/objectmodeling/levelone)
+
+---
+### Day 5 – Polymorphism
+**(Date: 31-DEC-2026)**
+
+- Did many questions from polymorphism
+- Was quite difficult but somehow solved them
+
+ [Link](https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/oops/polymorphism)
+
+---
