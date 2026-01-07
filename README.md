@@ -116,4 +116,12 @@ Day 16 – Questions on Hashmap, stack and queue (DSA)
 •	Did questions of Stacks, queues and hashmaps
 •	leanred builtin stack, queue and hashmap
 Link:(https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/src/StackQueueHashmap/StackAndQueue)
+________________________________________
+Day 17 – Questions on Sorting Algorithms
+(Date: 7-Jan-2026)
+
+• Did questions of mergesort,quicksort etc
+• learned various approaches to sort algorithm
+
+ Link:(https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/src/Sortingalgorithms) 
 
