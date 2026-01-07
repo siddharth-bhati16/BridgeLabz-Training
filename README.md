@@ -61,10 +61,10 @@ Solved extra practice problem based on methods.
 Commited and pushed solutions to repository.
 Code link
 Day 8: Extra questions
-Day 9 – Object Oriented Programming Fundemental
+Day 9 – Object Oriented Programming Fundemental.
 (Date: 27-DEC-2025)
-•	started with the oops fundementals
-•	Was quite difficult but somehow solved them
+•	started with the oops fundementals.
+•	Was quite difficult but somehow solved them.
 Link
 ________________________________________
 Day 10 – Constructors and Class Variables
