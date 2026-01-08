@@ -152,3 +152,11 @@ Day 17 – Questions on Sorting Algorithms
 
 [Link:sortingalgorithms](https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/src/Sortingalgorithms)   
 
+
+Day 18 – Questions on OOPS scenariobased  
+(Date: 8-Jan-2026)  
+
+> Did questions of real-time world scenario   
+> learned various new things and their implementation  
+
+[Link:scenariobased](https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/oops/scenariobased).
