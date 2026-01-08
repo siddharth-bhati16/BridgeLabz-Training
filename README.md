@@ -149,9 +149,8 @@ Day 17 – Questions on Sorting Algorithms
 
 > Did questions of mergesort,quicksort etc  
 > learned various approaches to sort algorithm  
-
 [Link:sortingalgorithms](https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/src/Sortingalgorithms)   
-
+---
 
 Day 18 – Questions on OOPS scenariobased  
 (Date: 8-Jan-2026)  
