@@ -1,4 +1,4 @@
-package src.linearBinarySearch;
+package src.LinearBinarySearch;
 
 public class ReverseString {
 
@@ -18,3 +18,5 @@ public class ReverseString {
         return sb.toString();
     }
 }
+
+
