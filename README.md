@@ -63,3 +63,11 @@
  [Link](https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/oops/scenariobased)
 
 ---
+### Day 7 – ScenarioBased 
+**(Date: 10-JAN-2026)**
+
+- Did question related to realtime scenario
+- were lengthy but intresting 
+ [Link](https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/oops/scenariobased)
+
+---
