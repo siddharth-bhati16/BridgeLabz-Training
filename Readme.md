@@ -30,13 +30,22 @@ This repository contains my learning journey as part of the BridgeLabz program.
  [Link](https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/src/Sortingalgorithms)
 
 ---
-### Day 4 – Questions on Linear Binary Search
+### Day 4 – Questions on Linear Binary Search  
 **(Date: 9-Jan-2026)**
 
 - Did questions of Stringbuilder and StringBuffer  
 - leanred various concept regarding linear search   
 
  [Link](https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/src/linearBinarySearch)
+
+---
+### Day 5 – Questions on Submission of algorithms
+**(Date: 12-Jan-2026)**
+
+- Did various question related to algorithms    
+- leanred various concept regarding algorithms    
+
+ [Link](https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/src/SubmissionOfAlgorithm)
 
 ---
 
