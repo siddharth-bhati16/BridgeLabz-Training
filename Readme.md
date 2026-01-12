@@ -180,3 +180,13 @@ Day 20 – Questions on Submission on sortings
 
 [Link:Submission on sortings](https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/src/SubmissionOfAlgorithm).  
 
+---
+
+Day 20 – Questions on Scenariobased
+(Date: 12-Jan-2026)  
+
+> Did questions of DSA scenation based    
+> learned various new things with their implementation    
+
+[Link:DSA scenariobased](https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/dsa-practice/dsa-practice/Scenario-based/Scenariobased/src/Week1/BookShelf).  
+
