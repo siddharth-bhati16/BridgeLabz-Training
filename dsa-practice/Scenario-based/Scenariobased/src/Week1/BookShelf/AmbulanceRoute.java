@@ -15,7 +15,6 @@ class HospitalUnit {
 class AmbulanceRoutes {
     private HospitalUnit head = null;
 
-    // Add hospital unit to circular list
     public void addUnit(String name, boolean available) {
         HospitalUnit newUnit = new HospitalUnit(name, available);
 
@@ -83,7 +82,6 @@ class AmbulanceRoutes {
         System.out.println("No available units found!");
     }
 
-    // Display circular route
     public void displayRoute() {
         if (head == null) return;
 
