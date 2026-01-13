@@ -9,13 +9,13 @@ interface IAnalyzable {
     void detectOverspend();
 }
 
-class Transaction {
+class Transactions {
     private double amount;
     private String type;     
     private LocalDate date;
     private String category;
 
-    public Transaction(double amount, String type, LocalDate date, String category) {
+    public Transactions(double amount, String type, LocalDate date, String category) {
         this.amount = amount;
         this.type = type;
         this.date = date;
@@ -39,7 +39,7 @@ class Budget {
     protected double income;
     protected double limit;
     protected Map<String, Double> categoryLimits;
-    protected List<Transaction> transactions;
+    protected List<Transactions> transactions;
 
     public Budget(double income, double limit, Map<String, Double> categoryLimits) {
         this.income = income;
@@ -127,15 +127,15 @@ public class BudgetWise {
         IAnalyzable budget = new MonthlyBudget(3000, 2500, categoryLimits);
 
         MonthlyBudget mb = (MonthlyBudget) budget;
-        mb.addTransaction(new Transaction(600, "EXPENSE", LocalDate.now(), "Food"));
-        mb.addTransaction(new Transaction(1200, "EXPENSE", LocalDate.now(), "Rent"));
+        mb.addTransactions(new Transactions(600, "EXPENSE", LocalDate.now(), "Food"));
+        mb.addTransactions(new Transactions(1200, "EXPENSE", LocalDate.now(), "Rent"));
 
         budget.generateReport();
         budget.detectOverspend();
 
         IAnalyzable annual = new AnnualBudget(36000, 30000, categoryLimits);
         AnnualBudget ab = (AnnualBudget) annual;
-        ab.addTransaction(new Transaction(32000, "EXPENSE", LocalDate.now(), "All"));
+        ab.addTransactions(new Transactions(32000, "EXPENSE", LocalDate.now(), "All"));
 
         annual.generateReport();
         annual.detectOverspend();
