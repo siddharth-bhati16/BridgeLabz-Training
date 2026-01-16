@@ -39,13 +39,31 @@ This repository contains my learning journey as part of the BridgeLabz program.
  [Link](https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/src/linearBinarySearch)
 
 ---
-### Day 5 – Questions on Submission of algorithms
+## Day 5 – Questions on senerio based 
 **(Date: 12-Jan-2026)**
 
-- Did various question related to algorithms    
-- leanred various concept regarding algorithms    
+- Did questions of real senerio based   
+- leanred various concept regarding DSA  
 
- [Link](https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/src/SubmissionOfAlgorithm)
+ [Link](https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/dsa-practice/dsa-practice/Scenario-based/Scenariobased/src)
+ 
+ ---
 
----
+## Day 6 – Questions on DSA senerio based 
+**(Date: 14-Jan-2026)**
+
+- Did questions of real time senerio based   
+- Explored new concept in DSA  
+
+ [Link](https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/dsa-practice/dsa-practice/Scenario-based/Scenariobased/src)
+
+ ---
+
+ ## Day 7 – Questions on DSA senerio based sortings
+**(Date: 16-Jan-2026)**
+
+- Did questions of sortings   
+- Explored new concept in DSA  
+
+ [Link](https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/dsa-practice/dsa-practice/Scenario-based/Scenariobased/src)
 
