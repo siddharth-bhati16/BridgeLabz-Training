@@ -190,3 +190,23 @@ Day 20 – Questions on Scenariobased
 
 [Link:DSA scenariobased](https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/dsa-practice/dsa-practice/Scenario-based/Scenariobased/src/Week1/BookShelf).  
 
+---
+
+Day 21 – Questions on Scenariobased
+(Date: 14-Jan-2026)  
+
+> Did questions of DSA scenation based    
+> learned various new things with their implementation    
+
+[Link:DSA scenariobased](https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/dsa-practice/dsa-practice/Scenario-based/Scenariobased/src/Week1/BookShelf).  
+
+---
+
+Day 22 – Questions on Scenariobased sortings 
+(Date: 16-Jan-2026)  
+
+> Did questions of DSA sortings     
+> learned new concept of sortings    
+
+[Link:DSA scenariobased](https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/dsa-practice/dsa-practice/Scenario-based/Scenariobased/src/Sortings).  
+
