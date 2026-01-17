@@ -210,3 +210,12 @@ Day 22 – Questions on Scenariobased sortings
 
 [Link:DSA scenariobased](https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/dsa-practice/dsa-practice/Scenario-based/Scenariobased/src/Sortings).  
 
+---
+Day 23 – Questions on Scenariobased sortings 
+(Date: 17-Jan-2026)  
+
+> Did questions of advanced DSA sortings     
+> learned new concept of sortings    
+
+[Link:DSA scenariobased](https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/dsa-practice/dsa-practice/Scenario-based/Scenariobased/src/Sortings).  
+
