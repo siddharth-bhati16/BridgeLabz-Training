@@ -87,3 +87,13 @@ This repository contains my learning journey as part of the BridgeLabz program.
 
  [Link](https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/dsa-practice/dsa-practice/Scenario-based/Scenariobased/src/Week2)
 
+---
+
+ ## Day 10 – Questions on DSA senerio based sortings combining all techniques  
+**(Date: 20-Jan-2026)**
+
+- Did questions of combined sortings and algorithms   
+- Explored new concept in DSA with real scenario      
+
+ [Link](https://github.com/siddharth-bhati16/BridgeLabz-Training/tree/dsa-practice/dsa-practice/Scenario-based/Scenariobased/src/Week2)
+
